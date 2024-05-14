@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+struct Split {
+    var numberOfPeople: Int
+    var totalBill: Double
+    var tip: Double
+}

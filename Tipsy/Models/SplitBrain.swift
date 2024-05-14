@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+struct SplitBrain {
+    var splitbill = Split(numberOfPeople: 0, totalBill: 0.0, tip: 0.0)
+    
+}
